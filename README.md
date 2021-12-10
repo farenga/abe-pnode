@@ -18,7 +18,7 @@ This repository includes a collection of "exploration" notebooks on Neural ODEs,
 </p>
 
 <p align="center">
-<img align="middle" src="./assets/gp-node-lotkavolterra1.png" alt="lotka-volterra" width="400"/>
+<img align="middle" src="./assets/gp-node-lotkavolterra2.png" alt="lotka-volterra" width="400"/>
 </p>
 
 ## Pendulum
