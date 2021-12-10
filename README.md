@@ -8,5 +8,5 @@ This repository includes a collection of "exploration" notebooks on Neural ODEs,
 ### Lotka-Volterra
 
 <p align="center">
-<img align="middle" src="./assets/lotka_volterra.gif" alt="lotka-volterra" width="600"/>
+<img align="middle" src="./assets/lotka_volterra.gif" alt="lotka-volterra" width="700"/>
 </p>
