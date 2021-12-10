@@ -10,3 +10,9 @@ This repository includes a collection of "exploration" notebooks on Neural ODEs,
 <p align="center">
 <img align="middle" src="./assets/lotka_volterra.gif" alt="lotka-volterra" width="700"/>
 </p>
+
+### Pendulum
+
+<p align="center">
+<img align="middle" src="./assets/pendulum.gif" alt="lotka-volterra" width="700"/>
+</p>
