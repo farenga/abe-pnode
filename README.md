@@ -1,6 +1,6 @@
 # neuralODEs
 
-This repository includes a collection of "exploration" notebooks on Neural ODEs, based on [`torchdiffeq`](https://github.com/rtqichen/torchdiffeq) and [`GP-NODE`](https://github.com/PredictiveIntelligenceLab/GP-NODEs) packages
+This repository includes a collection of "exploration" notebooks on Neural ODEs, based on [`torchdiffeq`](https://github.com/rtqichen/torchdiffeq) and [`GP-NODE`](https://github.com/PredictiveIntelligenceLab/GP-NODEs) packages.
 
 
 
