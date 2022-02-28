@@ -1,29 +1,9 @@
 # neuralODEs
 
-This repository includes a collection of "exploration" notebooks on Neural ODEs, based on [`torchdiffeq`](https://github.com/rtqichen/torchdiffeq) and [`GP-NODE`](https://github.com/PredictiveIntelligenceLab/GP-NODEs) packages.
+This repository contains the material related to the project of the Computational Statistics Course, Politecnico di Milano.
+The aim of the project was to [`explore Neural ODEs`](1_Spiral_ODE), implement methods to  [`quantify predictions' uncertainty`](2_ABE) and implement [`Parametrized NODEs`](3_Parametrized_ODEPDE) to model a 1-dimensional ODE-PDE.
 
+Packages used: 
+- [pytorch](https://github.com/pytorch/pytorch/)
+- [torchdiffeq](https://github.com/rtqichen/torchdiffeq)
 
-
-## Examples
-### Lotka-Volterra
-- torchdiffeq
-<p align="center">
-<img align="middle" src="./assets/lotka_volterra.gif" alt="lotka-volterra" width="700"/>
-</p>
-
-- GP-NODE
-
-<p align="center">
-<img align="middle" src="./assets/gp-node-lotkavolterra1.png" alt="lotka-volterra" width="400"/>
-</p>
-
-<p align="center">
-<img align="middle" src="./assets/gp-node-lotkavolterra2.png" alt="lotka-volterra" width="400"/>
-</p>
-
-### Pendulum
-- torchdiffeq
-
-<p align="center">
-<img align="middle" src="./assets/pendulum.gif" alt="lotka-volterra" width="700"/>
-</p>
